@@ -1,0 +1,932 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A York-shire dialogue, in its pure natural dialect as it is now commonly spoken in the north parts of York-shire : being a miscellaneous discourse, or hotchpotch of several country affairs, begun by a daughter and her mother, and continued by the father, son, uncle, neese, and land-lord ...</title>
+            <author>Meriton, George, 1634-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50676</idno>
+            <idno type="STC">Wing M1814</idno>
+            <idno type="STC">ESTC R31222</idno>
+            <idno type="EEBO-CITATION">11791550</idno>
+            <idno type="OCLC">ocm 11791550</idno>
+            <idno type="VID">49222</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49222)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1488:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A York-shire dialogue, in its pure natural dialect as it is now commonly spoken in the north parts of York-shire : being a miscellaneous discourse, or hotchpotch of several country affairs, begun by a daughter and her mother, and continued by the father, son, uncle, neese, and land-lord ...</title>
+                  <author>Meriton, George, 1634-1711.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John White and are to be sold by Richard Lambert ...,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to George Meriton by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English language --  Provincialisms.</term>
+               <term>English language --  Dialects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49222:1"/>
+            <pb facs="tcp:49222:1"/>
+            <p>A York-ſhire DIALOGUE, In its pure Natural DIALECT: As it is now commonly Spoken in the North parts of <hi>York-Shire.</hi>
+            </p>
+            <p>Being a Miſcellaneous diſcourſe, or Hotchpotch of ſeveral Country Affaires, begun by a Daughter and her Mother, and continued by the Father, Son, Uncle, Neeſe, and Land-Lord.</p>
+            <p>Note that <hi>D.</hi> ſtands for Daughter, <hi>M.</hi> for Mother, <hi>F.</hi> for Father, <hi>S.</hi> for Son, <hi>V.</hi> for Uncle, <hi>N.</hi> for Neeſe, and <hi>L.</hi> for Land-Lord.</p>
+            <p>Reader here's folly, come and Laugh thy fill, He neer did good, that never did noe Ill.</p>
+            <p>
+               <hi>YORK,</hi> Printed by <hi>John White,</hi> and are to be ſold by <hi>Richard Lambert,</hi> at the <hi>Crown</hi> at the <hi>Minſter-gates.</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:49222:2"/>
+            <pb n="1" facs="tcp:49222:2"/>
+            <head>A Yorkeſhire Dialogue in its pure Natural Dialect, as it now commonly ſpoken in the North parts of Yorkeſhire, being a Miſcellaneous diſcourſe, or Hotchpotch of ſeveral Country affaires, begun by a Daughter and her Mother, and continued by the Father, Son, Uncle, Neeſe, and Land-Lord;</head>
+            <sp>
+               <speaker>D.</speaker>
+               <l>MOther our Croky's Cawven ſine't grew dark,</l>
+               <l>And Iſe flaid to come nar, ſhe macks ſike wark;</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Seaun, ſeaun Barn, bring my Skeel and late my tee</l>
+               <l>Mack haſt, and hye Thee ore to'th Laer to me:</l>
+               <l>Weeſe git a Battin and a Burden Reap,</l>
+               <l>Though it be mirke, weeſe late it out by grape;</l>
+               <l>Than wee'l to<g ref="char:punc">▪</g>th Field and give the Cow ſome Hay,</l>
+               <l>And ſee her Clean, before we come away;</l>
+               <l>For flaid ſhe git ſome water before ſhe Cleen,</l>
+               <l>And marr her Milk, Iſe greet out beath my Neen:</l>
+            </sp>
+            <pb n="2" facs="tcp:49222:3"/>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Whaugh Mother how ſhe Rowts, Iſe varra Arfe</l>
+               <l>Shee'l put, and rive my good Prunella Scarfe,</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Iſe dinge thy harnes out, thou baſe mucky Sewe,</l>
+               <l>Thou macks ſike Anters, Thou'l miſtetch my Cow;</l>
+               <l>What need thou be ſeay flaid. She will nut mell,</l>
+               <l>Nor Hipe, if there war neane here but thy ſell;</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Wally, wally, here's a deft Tinye Cawfe,</l>
+               <l>It's better than a Keauſteril behawfe,</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>It's newly gitten Feaut, tack haud on't <hi>Tibb,</hi>
+               </l>
+               <l>Wee'l ſuckl't weel, and put it into 'th Cribb,</l>
+               <l>And Bed it Strangly, with good clean Streay,</l>
+               <l>And ſee it lye'th ſell down before we geay,</l>
+               <l>Now let us hame, and late for Bowles and Sile,</l>
+               <l>Thy Father'l meauſe whore we are all this while.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Iſe nut farr, iſt Cow Cawv'd that's a gooddin,</l>
+               <l>Now <hi>Tibb</hi> weeſe git ſome Beeſtling puddin,</l>
+               <l>Let's Spang our gates for it is varra Snithe,</l>
+               <l>And Iſe flaid wife, it will be froſt belive,</l>
+               <l>Leake yonder iſt Lad comming, to late for you,</l>
+               <l>Hee'd be in Bed, to Morn, we gang to plewe,</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Wya, wya, did 'th pot play when you com.</l>
+               <l>Wheay keauks the Supper now when Iſe fra hame</l>
+               <l>What <hi>Hob</hi> iſt Beefe aneugh, iſt Groats put in</l>
+               <l>Till all war deaun, I knawe thou wad not lin,</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>Ey Mother the Groats are in, Ive tane of'th pot,</l>
+               <l>And 'th Cael I ſeaure are cawd eneugh to Sup;</l>
+            </sp>
+            <pb n="3" facs="tcp:49222:3"/>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Come tack up'th Beefe <hi>Tibb,</hi> iſt Dubler ready,</l>
+               <l>Thy Father and <hi>Hobb</hi> mun gang to'th Smiddy,</l>
+               <l>And fetch the Specks, Sock, and Coulter hither,</l>
+               <l>Seedtimes now come, they mun Sawe Haver;</l>
+               <l>Stride <hi>Tibb,</hi> and clawt ſome Caſſons out 'oth Hurne,</l>
+               <l>Then geay Thy wayes and fetch a Skeel of Burne,</l>
+               <l>And hing the pan ore'th Fire, ith Rekin-crewke,</l>
+               <l>And Iſe weſh 'th Sile, and diſhes up 'ith Newke,</l>
+               <l>And than wee'l all to Bed; here's a cawd Neet</l>
+               <l>But Husband Iſe cling cloſe, and weeſe blend Feet,</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Pray thee deau <hi>Pegg,</hi> than Iſe git up 'ith Morne,</l>
+               <l>And late ſome pokes, and put up our Seed Corne:</l>
+               <l>Than thou may ſarra'th Goats and Gilts with draffe,</l>
+               <l>And Iſe give Yawds ſome Hinderends and Caffe,</l>
+               <l>Than for our Breakfaſts, Thou may haet ſome Cael,</l>
+               <l>Till I lye by my Shackfork and my Flail:</l>
+               <l>And <hi>Hobbs</hi> mack ready my Harrows and my Plewgh,</l>
+               <l>And he and I <hi>Pegg,</hi> ſall deau weel aneugh;</l>
+               <l>Ive hard it tauk'd, and now the Trueth Ive fund,</l>
+               <l>Amell tweay Steauls, the Tail may fall to'th grund.</l>
+               <l>I lited on <hi>Hobb,</hi> he Lited on me,</l>
+               <l>And the Deel a thing is ready at I ſee,</l>
+               <l>Neither Traces, Hames, nor Baurghwans to find,</l>
+               <l>Swingle Trees, nor Helters, all's made an ill end</l>
+               <l>But tweay dayes ſine, Iſe ſeaure they war all here,</l>
+               <l>Flung on an Heap 'ith midſt of our Laer Fleaure,</l>
+            </sp>
+            <pb n="4" facs="tcp:49222:4"/>
+            <sp>
+               <speaker>S.</speaker>
+               <l>Fatther they'r ligging all on our Faugh Lands</l>
+               <l>I trail'd them there my ſell with my awne hands;</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Thou's a good Lad my <hi>Hobb</hi> that teauke ſike Care</l>
+               <l>Iſt Yoaks and Bowes and Pad and Yoakſticks there</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>Ey ey and'th Plewgh Staffe teau Hopper and Teems</l>
+               <l>We lack nowght but a Bay Stagg of me Neems</l>
+               <l>That wee're to Yoake'ith plewgh before our Yawds,</l>
+               <l>And than Iſe ſeaur weeſe rive up all Adawds.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Near rack near rack, weeſe tack neay thought for that,</l>
+               <l>Iſe ſeaur that it will bide us billing at.</l>
+               <l>Our Land is tewh, and full of ſtrang whickens,</l>
+               <l>Catt whins, and Seavy Furrs and monny Breckins,</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>Lythe yee, Lythe yee, how fondly you tawke,</l>
+               <l>You think, weeſe mack monny ilfavart Bawke.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Gray Geauſe hath layd, geuy carry in her Egg,</l>
+               <l>
+                  <hi>Tibb</hi> dare not come to fetcht, for flaid'oth Stegg. Griſe,</l>
+               <l>Then goame, ſteeke'th Hemble deaur and bar up'th</l>
+               <l>For they've been in a miſchief twice or thrice.</l>
+               <l>The <hi>Libber</hi> comes to Morn, weeſe Libb'th awd Piggs</l>
+               <l>For they've mead filthy wark, 'oth Corn Land Riggs.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>Fatther our Bull Seggs puſſom'd, hees degbownd,</l>
+               <l>And our awd Meer is ſlidden into'th Pownd,</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Wellaneerin, wellaneerin, run faſt run,</l>
+               <l>Hye thee <hi>Hobb,</hi> and bid thy <hi>Mawgh Herry</hi> come,</l>
+               <pb n="5" facs="tcp:49222:4"/>
+               <l>And bring his horne, and give our Segg a drinck,</l>
+               <l>Mack hyaſt or elſe Iſe lam thee till thou ſtinck.</l>
+            </sp>
+            <sp>
+               <speaker>V.</speaker>
+               <l>Howe nowe <hi>Hobb,</hi> thou reeks ſayr what macks ta run</l>
+               <l>What uncuths hes thou brought come tell me ſeaun,</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>Our Yawd's layd arſe-ward, Bull Segg is like to dec,</l>
+               <l>And ſeay Iſe com for you to gang with me.</l>
+            </sp>
+            <sp>
+               <speaker>V.</speaker>
+               <l>Marry Iſe varra weay, for thats ill warke,</l>
+               <l>Iſe flaid, weeſe not get there before't be dark<g ref="char:punc">▪</g>
+               </l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Thats weel your come, the Segg is at Stand Hecl,</l>
+               <l>What ails tis deaur I cannot find out'th Sneck.</l>
+            </sp>
+            <sp>
+               <speaker>V.</speaker>
+               <l>Is this him that liggs here, hee's tengd hee'l dee</l>
+               <l>Lett's ſtick him, there's neay whopes of him I ſee,</l>
+               <l>Hee's pratty meetery Fleſh here s a good skin,</l>
+               <l>Hee l mack good Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l and put fat Backon in;</l>
+               <l>Lett's gang and ſee your Sheep, what ails yon Teaupe</l>
+               <l>I think hee's gitten ſome ſtob in his Feaut,</l>
+               <l>Thur Yowes are Clowclagg'd, they skitter ſayr,</l>
+               <l>They'l be full of Mawks if you tack nut care,</l>
+               <l>I think they've gitten ſome freſh whewt of girſe,</l>
+               <l>That macks them ſeay beclarted about 'th Arſe.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Iſe like to Clem lets hame <hi>Maugh</hi> to our <hi>Pegg,</hi>
+               </l>
+               <l>Sheel trigg our Kites with good Kirne Milk &amp; Whigg</l>
+            </sp>
+            <sp>
+               <speaker>V.</speaker>
+               <l>Siſter have you owght that will ſlocken weel,</l>
+               <l>You've Whigg 'ith Stand, and good Kirn-milk 'ith Skeel</l>
+               <l>Fill me'th Bend Kit, Iſe ſet it to my paet</l>
+               <l>Ile venter a ſtrang pull, though I be haet.</l>
+               <pb n="6" facs="tcp:49222:5"/>
+               <l>Here's ſine Backon Siſter its glore fatt,</l>
+               <l>But it's a little knarl'd with our Carl Catt.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Its ſmall warſe Pegg wheres our Haver Riddle;</l>
+               <l>Laſt time I ſawt, it was layd ive our Stable.</l>
+               <l>Wheay hes remmond 'th Side Lanyells ſome ill Foal,</l>
+               <l>I laid um here under the Aumry ſoal.</l>
+               <l>Can neathing lig, that leeter than a ſtane</l>
+               <l>We ſall heve nowt left ſeaun, all will be gane</l>
+               <l>All things run wrang wife, neathing Cottens weel</l>
+               <l>Thy ſpindle is all ravield, nea Garn oth Reel.</l>
+               <l>Thy ſammaron webb thou ſent tuth Bleacher well</l>
+               <l>Is ſtown, grey Geauſe Gezlins all dazd ith ſhell</l>
+               <l>Our Bayking I put up 'ith Harden Seck,</l>
+               <l>The Mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ners let it fall into the Beck,</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Waies is me Husband our awd Breads all gane,</l>
+               <l>We mun mack Bannocks till 'th Bakin come haum.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Its comes ith Earnder Wife or elſe be Neaun,</l>
+               <l>Come bring my Siippers <hi>Tibb</hi> and deet my Sheaun.</l>
+               <l>To Morn ith Ownder we mun dod our Sheepe,</l>
+               <l>The Weathers hate and Mawks begin to creepe:</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Sum's feald our backſtane <hi>Tibb</hi> or elſe its gean,</l>
+               <l>Iſe varra flaid ſum es gitten't for'th lang lane,</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Whilk wayes our <hi>Hobb</hi> gaen Mother, here's baſe wark</l>
+               <l>Yonders Gawt ith Garth and riven all his ſarke.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>What's warſe than ill luck, late me our Fruggin,</l>
+               <l>Iſe ſtop 'th Yatt, tell thou mack <hi>Perry</hi> lugg him.</l>
+            </sp>
+            <pb n="7" facs="tcp:49222:5"/>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Hereſt Dubler brocken, and nowther Sowle nor Breau<g ref="char:punc">▪</g>
+               </l>
+               <l>And Iſe ſeay Howle I knawe nut what to deau.</l>
+               <l>Heres mad wark <hi>Hobb,</hi> Speer'th Heck and flay back'th Catt.</l>
+               <l>Thereſt Backon in her mouth hitt her a batt</l>
+               <l>Weel dean <hi>Hobb</hi> heſt a gittint leauke iſt there,</l>
+               <l>Its lytle warſe its traild 'ith Mucky Fleaur,</l>
+               <l>Here'ſt Gully liggin, call thy Mother ſeaun,</l>
+               <l>Iſe ſcrape it clean, Iſe ſeaure its now paſt Neaun,</l>
+               <l>Fye fye if wee'd nut come juſt when we did,</l>
+               <l>Wee'd been miſlicken'd of our dinners <hi>Pegg.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>How ſeay I whemmil'd Dubler ore the Meat,</l>
+               <l>To keep it ſafe and warme for you to Eat.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>But'th Catt had eaten't all if weed nut been</l>
+               <l>Dubler's brocken, thou may truſt thy nawn Een,</l>
+               <l>I Wad faine ſee a fine Sun ſhiny day,</l>
+               <l>Heres wancle weather for gittinge of our Hay.</l>
+               <l>What ails our <hi>Tibb,</hi> that ſhe urles ſeay ith Newke,</l>
+               <l>Shee's nut Reet. ſhe leauks an Awd farrand Leauke.</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Fatther, Ive gitten cawd, I can ſcarce tawke,</l>
+               <l>And my Snurles are ſeay ſayr ſtopt, I can nut ſnawke,</l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>How duz my Cozen <hi>Tibb</hi> Naunt I mun nut ſtay,</l>
+               <l>I hard ſhe gat a Cawd the other day,</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Ey wallaneerin, wilta gang and ſee, Stee.</l>
+               <l>Shee's aboun 'ith Chawmber, Thou may Clim upth</l>
+               <pb n="8" facs="tcp:49222:6"/>
+               <l>Shee's on a dovening now gang deftly <hi>Nan,</hi>
+               </l>
+               <l>And mack as little din as ee'r Thou can.</l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>Your mains flaid, there's an awd ſaying you knawe</l>
+               <l>That's there's no Carrion will kill a Crawe:</l>
+               <l>If ſhe be nut as dead as a deaur Naile,</l>
+               <l>Ile mack her flyer and ſemper like Fleſh Cael,</l>
+               <l>What <hi>Tibb</hi> I ſee, Thou is nut yet quite dead,</l>
+               <l>Leauke at me woman, and haud up thy head.</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Ah <hi>Nan</hi> ſteeke'th winderboard, and mack it darke,</l>
+               <l>My Neen are varra ſayr, they ſtoun and warke.</l>
+               <l>They are ſeay Gummy and Furr'd up ſometime.</l>
+               <l>I can nut leauke at 'th Leet, nor ſee a ſtime.</l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>Come come, I can mack Thee Leetſome and blythe,</l>
+               <l>Here will be thy awd Sweet-heart here Belive.</l>
+               <l>He tell'd me ſeay I ſay him but laſt Neet</l>
+               <l>O <hi>Tibb</hi> he is as fine as onny Kneet.</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Nay <hi>Nan</hi> Thou dus but jeſt there's neay ſike thing,</l>
+               <l>He woes another Laſſe and gave her a Ring.</l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>Away away great feaul tack thou neay Care,</l>
+               <l>He ſwears that hee'l love thee for evermare.</l>
+               <l>And ſayes as ever he whopes his Saul to ſeave,</l>
+               <l>Hee'l either wed to Thee, or tull his greave.</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Thou macks me laugh <hi>Nan,</hi> if all be true thou ſayes,</l>
+               <l>I whope that than Iſe ſee ſome joyful dayes:</l>
+               <l>Hee's made me have monny a ſad heart,</l>
+               <l>I thought hee'd left me, and wad nut tack my part.</l>
+               <pb n="9" facs="tcp:49222:6"/>
+               <l>But than ſometimes I thowght it's a black Creake,</l>
+               <l>That never to her ſell can gitt a Meake:</l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>The Reaſon why he duz nut come and gang,</l>
+               <l>He ſayes love me leetly and love me lang.</l>
+               <l>There's luck in Leizur, hee'd have your Loves tack haud</l>
+               <l>He ſayes hee's heard that haet Love is ſeaun cawd:</l>
+               <l>He can Leov the Houſe weel that has <hi>Tibb</hi> in,</l>
+               <l>And nut be allwayes Riding 'oth Riggin.</l>
+               <l>Next time he comes hee'l tel thee all his mind,</l>
+               <l>Seay be nut Stanfra, but Loving and kind,</l>
+               <l>And let him kiſſe and grape teau if he will,</l>
+               <l>Thou's neer warſe woman for there's nean can tell.</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Hee's had neay want of that which macks me thinke,</l>
+               <l>The Proverb's true, that proffer'd things duz ſtinke:</l>
+               <l>The things that we have dean Iſe arfe to tell,</l>
+               <l>But I ſuppoſe Thou's deaun the ſame with <hi>Will:</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>Pray thee tell me <hi>Tibb,</hi> tell me woman ſeaun,</l>
+               <l>And Ile tell thee what <hi>Will</hi> and I heve deaun</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>If I ſud tell the Reeks that wee have had,</l>
+               <l>Thou'l kittle ſeay, it'l mack thee juſt ſtarke mad:</l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>Thou ſetts me Agog until I hear,</l>
+               <l>Thou need nut bluſh come whiſper me 'ith Ear</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>What need I whiſper, Thou knawes young Women will</l>
+               <l>To gett a Lively Lad, uſe all their skill:</l>
+               <l>He kiſt me firſt did grape my breeſts and than,</l>
+               <l>Went lawer downe, Thou knaws what teau dear <hi>Nan:</hi>
+               </l>
+            </sp>
+            <pb n="10" facs="tcp:49222:7"/>
+            <sp>
+               <speaker>N.</speaker>
+               <l>Tell me I pray Thee what did he <hi>Tibby,</hi>
+               </l>
+               <l>Did he, beat a Larum on thy Stiddy:</l>
+            </sp>
+            <sp>
+               <speaker>D.</speaker>
+               <l>Wheeſht wheeſht my Mothers comeing up I hear,</l>
+               <l>And ſhee's heard all our Tawke, <hi>Nanny</hi> I fear</l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>Wad ſhe war hang'd that cud nut ſtay belawe,</l>
+               <l>I'de as leeve be fell'd as nut the trueth all knawe:</l>
+               <l>Iſe heare't all out when I have time to ſtay</l>
+               <l>My Naunt's juſt here nowe, farewell Ile away</l>
+               <l>I mun be ganging nowe Iſe ſeaure its time</l>
+               <l>Ive nowther been at Kye, nor farra'd 'th Swine:</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>What iſta ganging <hi>Nan</hi> will thou nut ſtay,</l>
+               <l>How comes thy clathes ſeay flurr'd Barne this cawme day</l>
+               <l>Thous never Tite, theres alwayes ſomething wrang,</l>
+               <l>Wad ta ſaw thy ſell thou great Gammerſtang,</l>
+               <l>For ſham Woman Reet um down as ta geayes</l>
+               <l>Iſe ſeaur thou hes neay Mence neer in thy Clathes,</l>
+               <l>Beſeaur hereafter thou tack better Care.</l>
+               <l>For Meat is mickle, but Mence is Maer.</l>
+               <l>Yonders our Owſe, is Loppen ore the Yate,</l>
+               <l>
+                  <hi>Nan</hi> ſlap him back as Thou gangs up 'th Towne gate</l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>Naunt Ile nut mell, outleſs he war our awne,</l>
+               <l>What iſt weaud Owſe, that Hiped at our Brawne.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Neay neay great Staggs, what a fond wark Thou macks</l>
+               <l>It's him, that brach down'th Railes, tuth Haver ſtacks.</l>
+               <pb n="11" facs="tcp:49222:7"/>
+               <l>When thou duz gang upp'th Town, Thoul knaw him ſeaun,</l>
+               <l>Hee's a find Flae Head, and a pure browne Greaun.</l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>Heres your <hi>Hobb</hi> coming let him gang his Sell,</l>
+               <l>I tell you plain Ile nowther mack nor mell.</l>
+               <l>I heve nea time now up the Town to Rame,</l>
+               <l>There is odd Charrs for me to deau at hame;</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Is <hi>Hobb</hi> gane Husband to fetch back weaud Owſe,</l>
+               <l>A wee bit ſine, out o'th Fawd Garth brack lowſe.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>If he can but dree, I ſaw him yeaud upth Town,</l>
+               <l>And ſeay I think hee's gean to fetch him down:</l>
+               <l>Wife what's become of my Spatterdaſhers,</l>
+               <l>Pray Thee Stride upp'th Greeſe and fetch'th Gam<g ref="char:EOLhyphen"/>maſhaes</l>
+               <l>For I mun gang to'th field and cut ſome Hay,</l>
+               <l>And give Ilkin 'oth drapes ſome while I ſtay,</l>
+               <l>There is a Rencky Cow, that beats all'th reſt.</l>
+               <l>And till I Fother'd them, I never wiſt.</l>
+               <l>Tother has booke, and Bane, and are as tall,</l>
+               <l>And yet ſhe macks um run on Snockſnarles all.</l>
+               <l>Bringe me our Hay Spade <hi>Hobb,</hi> Huſhta good Lad</l>
+               <l>Can thou not hawd thy Feet, what iſta Madd:</l>
+               <l>Some Rogue has ſtown our Cawſe houſe deaur away,</l>
+               <l>Mind <hi>Hobb</hi> if thou Speer it out to day.</l>
+               <l>Outapont how that Hen gobbles up all'th Groats,</l>
+               <l>Thur Birds are all Cumber, Ile cut their Throats.</l>
+            </sp>
+            <pb n="12" facs="tcp:49222:8"/>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Stand by Caingell let me Crum um ſome Bread,</l>
+               <l>Iſe Arfe to put them out becauſe 'oth Glead.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>What a whanks there if thou fike waſt doe mack,</l>
+               <l>I mun late 'th Needle whore it never ſtack.</l>
+               <l>I care nut, an they war all Drown'd 'ith dike</l>
+               <l>There not worth an Atchiſon, nor Twenty fike.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Your a cheap Man, trouble not your Jobber Nowle</l>
+               <l>Ile give um ſome Trouts, reach me hither Bowle.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Thou's nought but Babbles, thou duz things to'th Hawves</l>
+               <l>Thou'd mayer need gang, and mack ſome Cale for'th Cawves</l>
+               <l>They'r ſtarv'd for want of Meat, hark how they Bleere</l>
+               <l>When'th Steed ſtown, Thou may ſteeke the Stable deaur.</l>
+               <l>Mack haſt good <hi>Pegg,</hi> ſweep'th houſe and don the ſeaun</l>
+               <l>Our Land-Lord woman will be here by Neaun.</l>
+               <l>I had an Inklin on't at'th Arvall Feaſt,</l>
+               <l>Methinks he macks deevliſh ſtickle but haſt.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Its time for me about the Houſe to Tripp,</l>
+               <l>Hee's be as welcome as watter into a Shipp.</l>
+               <l>It's nut aboon Three weeks gane ſine'th Rent day,</l>
+               <l>Husband what have you gitten upp to pay.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Ive five Nobles <hi>Pegg</hi> and ſome odd money,</l>
+               <l>Thou ſeld ſome Cheefes hes thou onny.</l>
+            </sp>
+            <pb n="13" facs="tcp:49222:8"/>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Seaven groats and a penny is all my Stock</l>
+               <l>Thou knows whore it liggs, lve nowther Key nor Lock</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Pray thee tell truly, hes thou neay mayer,</l>
+               <l>Did thou nut ſell ſome Garne at our laſt Faire:</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>What if I did, heve I nut mayer to pay,</l>
+               <l>Then I can mack of Trouts, Kirne Milke, and Whey</l>
+               <l>Wadta have me keaune, or deau that is warſe,</l>
+               <l>Turne Whore, and Addle money with my Narſe;</l>
+               <l>Ile have mayer under my hands to gang about,</l>
+               <l>Thou's nut thinke, that Ile be thy Underlout</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Thou Snoutbands me ſayer may I nut jeſt,</l>
+               <l>I ſeaur I ment neay harm to thee 'ith leaſt;</l>
+               <l>Come hither <hi>Hobb,</hi> what little ſtock hes Thou,</l>
+               <l>I knawe Thou's Addle ſome, with driving Plewe;</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>The ſmall ſtock I've gitten up togeather.</l>
+               <l>Is Twelve Bodles a Groate and fix pence Fatther,</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>I mun borrow'd <hi>Hobb,</hi> what iſta willing,</l>
+               <l>When I git money Thou's have a Shilling.</l>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <l>Iſe gang and fetch it hard feſt in a Cloote:</l>
+               <l>You may ſeaun lowſ't your ſell, and tack it out.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Here's Three and Three pence in odd Money <hi>Pegg</hi>
+               </l>
+               <l>That macks Forty Shillings, Reet as my Legg;</l>
+               <l>Paſhions a Life, heerſt Land-Lord juſt at deaur,</l>
+               <l>Stand you by, Ile ſpeak to him doe nut feare,</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>Iſe come to ſee Thee, how duſta <hi>Billy,</hi>
+               </l>
+               <l>What macks Thee huſtle, thou's mayr fawſe than ſilly</l>
+               <pb n="14" facs="tcp:49222:9"/>
+               <l>Thou Glincks and Glimes ſeay I'd misken'd thy face,</l>
+               <l>If Thou had wont at onny other place:</l>
+               <l>Iſt God Moarn or God Deen, what ſayſta <hi>Will?</hi>
+               </l>
+               <l>I think you heve nut dyn'd heres a good ſmell,</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Leet pray you Land-Lord, and you than will knawe,</l>
+               <l>I think my wife hes Pyes ith Ewn to draw:</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>How now <hi>Peggy,</hi> methinks thou's varra fine,</l>
+               <l>Have you ſome Gueſts to come to day, to dyne,</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Wellaneering wee'd need have every Neaun,</l>
+               <l>Something that's good, to keep our Hearts aboon;</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>But courſer Fair I think, might you content,</l>
+               <l>You tack neay thought, how to pay me my Rent,</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Weeſe pay you as me mack't, and aſt comes in,</l>
+               <l>And you can have neay mayer 'oth Catt but'th Shin,</l>
+               <l>Here's Forty Shillings we heve neay mayer,</l>
+               <l>Weeſe have a Cow to ſell at our Neeſt Fair:</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>What can I deau with this it will nut clear,</l>
+               <l>And pay ſeay Mickle, as ſtreights your awd Arreare,</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Heres bad times pray you Land-Lord be content</l>
+               <l>Forbear us but and you's heve all your Rent:</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>But it will be a lang time firſt-Iſe feard,</l>
+               <l>Aud whiles'th girſe growes, 'ch Horſe Starves as Ive heard</l>
+               <l>Next time I come you mun clear off, I leauke,</l>
+               <l>Thur Driblets mack me ſcrat, where duz nut yeauke<g ref="char:punc">▪</g>
+               </l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>But you mun Let us Rive up ſome freſh grund</l>
+               <l>Or elſe wee'l turn your Farme into your hand:</l>
+            </sp>
+            <pb n="51" facs="tcp:49222:9" rendition="simple:additions"/>
+            <sp>
+               <speaker>L.</speaker>
+               <l>Wad yee'd gane titter, I had been neay warſe.</l>
+               <l>For your not worth the warſt Fart of mine A—</l>
+               <l>You may gang when you will, Iſe never Care,</l>
+               <l>Iſe get another Tenant I neer fear;</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Wee'r ſattl'd here: And ſea to ſtir wee'r laith,</l>
+               <l>But weel I wait weeſe gether here nea Graith,</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>You Ill my Farm for you have ſaid to ſome,</l>
+               <l>Your quite undone and beggar'd ſine you com.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Some Pikethanks for ill will hes teld you that,</l>
+               <l>An uncouth Dog hes monny Barkers at;</l>
+               <l>Iſe Sackleſs on't Sir. by this fire that Reeks,</l>
+               <l>Ile Swear't upon all Beauks, that opens and ſteeks,</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>Away away, if I ſud let you Si<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</l>
+               <l>Rent free; I ſee you cud nut Live on it;</l>
+               <l>Your Corn's as Rank as ever it can ſtand.</l>
+               <l>There's ſike a wreck, it liggs all down 'oth Land:</l>
+               <l>And yet you ſay your Farme is ſtarke att'th Rent</l>
+               <l>And you for Tennants give me nea Content;</l>
+               <l>You can nut pay nor I can nut forbear,</l>
+               <l>Provide ſeay for your ſelves another Yeare:</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Wee'r nut ſeay Browden on't, as you ſuppoſe,</l>
+               <l>I thinck langer we ſtay, the mayer weeſe loſe,</l>
+               <l>Wad wee'd neer kend your Farme, nor had come here,</l>
+               <l>But bowght wittt's beſt, if it coſt nut ore dear,</l>
+               <l>There's neay Feaul, like to'th awd Feaul, I may ſay;</l>
+               <l>They that are bund. I ſee they mun obey;</l>
+               <pb n="16" facs="tcp:49222:10"/>
+               <l>The time that we com here, wee've cauſe to curſe</l>
+               <l>A tumbling ſtane, I ſee neer gathers Moſs;</l>
+               <l>We war 'ore weel before and did not waite</l>
+               <l>And now we may the time rue when'ts ore late;</l>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <l>Come come for all your goodly Cracks and Braggs</l>
+               <l>Ill Husbands and Sluggards mun gang in Raggs;</l>
+               <l>If you ow'd money when you com tuth Farme,</l>
+               <l>Your Creditors not it have deaun you harme:</l>
+               <l>If all your ſtock be gaen, lean to your Kin,</l>
+               <l>Near is my Sarke, but nearer is my Skin,</l>
+               <l>Charity begins at hame Iſe nut bund</l>
+               <l>To let you Live Rent free, upon my grund,</l>
+               <l>There's neay Sell like to'th awne Sell; you've Farmes anew</l>
+               <l>Offer'd you ſay, God ſpeed you, Iſe nee'r Rue;</l>
+               <l>A weaud Horſe I've heard it oft Reported</l>
+               <l>And a Rotten Harrowe, are ſeaun parted,</l>
+               <l>Fareweele, Iſe weay to find'th awd ſaying true,</l>
+               <l>It's an ill made Bargain whore beath Parties Rue.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>I've ſet our Land-Lord forwards Wife hee's gane,</l>
+               <l>Our <hi>Hobb's</hi> nut weel hees a baſe ſtinking Yane.</l>
+               <l>Hee's troubled with Wormes, he can nut ſleep nor Lig</l>
+               <l>Give him Worme-ſeed and Treacle, pray the <hi>Pegg.</hi>
+               </l>
+               <l>Weayworth this Traſh, Iſe flaid my Ladd's undeaun,</l>
+               <l>Hee's varra ſeek it works at his Heart Speaun;</l>
+               <l>To Moarne Ile gang to'th Market and hire <hi>Tibb,</hi>
+               </l>
+               <l>And <hi>Peggy</hi> thou thy Sell ſall ſpin out'th Webb:</l>
+            </sp>
+            <pb n="17" facs="tcp:49222:10"/>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Wya Husband you may deau what you will,</l>
+               <l>If I be weele. Iſe git it deaun my ſell;</l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>How deayee all, what Naunt as I hear ſay,</l>
+               <l>
+                  <hi>Tibby</hi> hes taine a Godſpenny to day;</l>
+               <l>I'me come to knawe before I gang to Bed,</l>
+               <l>I thowght this <hi>Martinmas</hi> ſhe wad be Wedd:</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Wayſe is me ſhees ore young for a good Man,</l>
+               <l>There's meay fowks wed, than keeps good Houſes <hi>Nan<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>Ore young ſeay you, I ſeaure ſhees gane Eighteen,</l>
+               <l>And few but at that Age they are Man keen;</l>
+               <l>Pray you what Age war you, when you war Wed,</l>
+               <l>At ſixteen Naunt you loſt your Maidenhead;</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>But they that Wed before their wiſe its ſaid</l>
+               <l>Will dee before they Thrive, and ſeay Iſe flaid</l>
+               <l>Will thou and ſhe, and all ſike Flirtigiggs,</l>
+               <l>That's fit for nowght but ſerving Brewſter Piggs;</l>
+               <l>I marvel thy Mother gitts nut thee a Dame,</l>
+               <l>Its fitter for Thee than to ſtay at Hame:</l>
+               <l>To ſlaver and Spin, and run an odd Charr,</l>
+               <l>A good Service war better for Thee farr:</l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>What ſike an a Service, as <hi>Tibb's</hi> to have,</l>
+               <l>I had as leeve be carrid to my Grave;</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>How ſeay, what ails her Service can thou tell</l>
+               <l>Thou nowther let her Thrive nor Thrive thy Sell.</l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>I hear <hi>Tibb</hi> is to gang to Miſtreſs <hi>Nice,</hi>
+               </l>
+               <l>Shee'l rue, Ile warrant mayer than yance or twice.</l>
+               <pb n="18" facs="tcp:49222:11" rendition="simple:additions"/>
+               <l>Shee'l deal her Neaves about her, I hear tell,</l>
+               <l>Shees timerous to pleaſe and varre fell;</l>
+               <l>Firſt thing that comes to hand Shee'l let it flee,</l>
+               <l>Neans yable to abide her Cruelty:</l>
+               <l>Ile lay a Wager <hi>Tibb</hi> never ſtayes</l>
+               <l>A new Meaun, and an Awd, nay nut ten dayes.</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>Birlady but my Barne ſhall never bee</l>
+               <l>A Battingſtock for her, Thou's plainly ſee;</l>
+               <l>Her Godſpeny ſall be ſent back to Moarn,</l>
+               <l>
+                  <hi>Tibb's</hi> ſtay at hame with me, <hi>Nan</hi> Ile beſworne,</l>
+               <l>My Laſſe ſall nowther Dame nor Miſtreſs have</l>
+               <l>Rather then gang to be a perfect Slave;</l>
+            </sp>
+            <sp>
+               <speaker>N.</speaker>
+               <l>My Neem's coming, fareweel Naunt, Ile to Bed,</l>
+               <l>I've ſitten till my feet as cawd as Lead.</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Yon Town a dree way off <hi>Pegg,</hi> Iſe ſayer tire'd,</l>
+               <l>
+                  <hi>Tibb</hi> is all Jarbil'd, and Ile baſely Mire'd;</l>
+               <l>Here's good Tobacco Wife it coſt a Pringle,</l>
+               <l>How mun I leet my Pipe? Whaugh here's neay Ingle</l>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <l>What need you Rame ſeay, you ſee'th Fire's gane,</l>
+               <l>Poul out your Touchwood, Box Steel, and Flint ſtane.</l>
+               <l>Than ſtrike a Fire, and leet a Seave I reed,</l>
+               <l>And Smeauke your Pipe, before we gang to Bed;</l>
+            </sp>
+            <sp>
+               <speaker>F.</speaker>
+               <l>Unfeſt my Collar point Wife than let us kiſs,</l>
+               <l>And pray for Love amell them where nean is.</l>
+               <l>My Papers at an End, Ile take my Eaſe</l>
+               <l>Here's too mnch pains beſtow'd unleſs it pleaſe.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49222:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
